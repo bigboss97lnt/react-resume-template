@@ -28,3 +28,15 @@ declare module '*.mp4' {
   const value: string;
   export default value;
 }
+
+// pdf.d.ts
+declare module '*.pdf' {
+  const src: string;
+  export default src;
+}
+// pd
+// f.d.ts
+declare module '*.ico' {
+  const src: string;
+  export default src;
+}
