@@ -268,7 +268,7 @@ export const experience: TimelineItem[] = [
   {
     date: 'Nov 2021 – Present',
     location: 'Yuehlia General Trading Co.',
-    title: 'Web/App Developer',
+    title: 'Software Developer',
     content: (
       <ul className="list-disc list-inside space-y-1">
         <li>Develop and maintain web and mobile apps using <strong>React Native</strong>, <strong>PHP</strong>, and <strong>JavaScript</strong></li>
